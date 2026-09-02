@@ -1,0 +1,6 @@
+{
+  "name": "DoodleCall",
+  "description": "Mobile-first ephemeral WebRTC video calling with real-time synchronized live doodling overlay.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
